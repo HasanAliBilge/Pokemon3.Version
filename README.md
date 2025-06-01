@@ -1,6 +1,6 @@
 # Pokémon Savaş Oyunu
 
-*Bu* **projede** asenkron Python kullanarak Pokémon karakterleriyle savaş yapabilirsiniz.
+*Bu* **projede asenkron Python** kullanarak Pokémon karakterleriyle savaş yapabilirsiniz.
 
 ## Özellikler
 
